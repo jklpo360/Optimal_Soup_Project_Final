@@ -11,9 +11,11 @@ My goal is to get the basic stuff down and then migrate it to HTML and attempt t
         <input type="submit" value="I can achieve a final grade of at least a C" id="q1id" />
         <div class="feedback-ease"></div>
       </div>
+    </form>
+    <form action="contact.php" method="post" class="form" id="feedback-form1" name="form2" enctype="multipart/form-data">
       <div class="q2">
-        <input type="submit" value="I can't achieve a final grade of at least a C" id="q2id" />
-        <div class="feedback-ease"></div>
+      <input type="submit" value="I can't achieve a final grade of at least a C" id="q2id" />
+      <div class="feedback-ease"></div>
       </div>
     </form>
   </div>
