@@ -12,7 +12,7 @@ My goal is to get the basic stuff down and then migrate it to HTML and attempt t
         <div class="feedback-ease"></div>
       </div>
       <div class="q2">
-        <input type="submit" value="I can achieve a final grade of at least a C" id="q1id" />
+        <input type="submit" value="I can't achieve a final grade of at least a C" id="q2id" />
         <div class="feedback-ease"></div>
       </div>
     </form>
