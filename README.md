@@ -7,14 +7,16 @@ My goal is to get the basic stuff down and then migrate it to HTML and attempt t
 <div id="feedback-main">
   <div id="feedback-div">
     <form action="contact.php" method="post" class="form" id="feedback-form1" name="form1" enctype="multipart/form-data">
-      <div class="feedback-submit">
-        <input type="submit" value="SEND" id="feedback-button-blue" />
+      <div class="q1">
+        <input type="submit" value="I can achieve a final grade of at least a C" id="q1id" />
+        <div class="feedback-ease"></div>
+      </div>
+      <div class="q2">
+        <input type="submit" value="I can achieve a final grade of at least a C" id="q1id" />
         <div class="feedback-ease"></div>
       </div>
     </form>
   </div>
 </div>
 
-<button id="popup" class="feedback-button" onclick="toggle_visibility()">Feedback</button>
-<script src="_include/js/feedback.js"></script>
 
