@@ -6,13 +6,13 @@ My goal is to get the basic stuff down and then migrate it to HTML and attempt t
 
 <div id="feedback-main">
   <div id="feedback-div">
-    <form action="contact.php" method="post" class="form" id="feedback-form1" name="form1" enctype="multipart/form-data">
+    <form action="mailto:suduerik@gmail.com" method="post" class="form" id="feedback-form1" name="form1" enctype="multipart/form-data">
       <div class="q1">
         <input type="submit" value="I can achieve a final grade of at least a C" id="q1id" />
         <div class="feedback-ease"></div>
       </div>
     </form>
-    <form action="contact.php" method="post" class="form" id="feedback-form1" name="form2" enctype="multipart/form-data">
+    <form action="mailto:susuerik@gmail.com" method="post" class="form" id="feedback-form1" name="form2" enctype="multipart/form-data">
       <div class="q2">
       <input type="submit" value="I can't achieve a final grade of at least a C" id="q2id" />
       <div class="feedback-ease"></div>
@@ -21,4 +21,14 @@ My goal is to get the basic stuff down and then migrate it to HTML and attempt t
   </div>
 </div>
 
+
+<form action=”mailto:contact@yourdomain.com”
+method=”POST”
+enctype=”multipart/form-data”
+name=”EmailForm”>
+Name:<br>
+<input type=”text” size=”19″ name=”ContactName”><br><br>
+Message:<br>
+<textarea name=”ContactCommentt” rows=”6″ cols=”20″>
+</textarea><br><br> <input type=”submit” value=”Submit”/> </form>
 
