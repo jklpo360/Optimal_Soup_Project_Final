@@ -1,8 +1,9 @@
-# 8 days
+# 7 days
 
-8 days to make this 100% material. It may not be enough to get me to a C(please inform me if I can actually get a C with 100% because that will motivate me a lot), but I'll give it a shot.
+7 days to make this 100% material. It may not be enough to get me to a C(please inform me if I can actually get a C with 100% because that will motivate me a lot), but I'll give it a shot.
 
 My goal is to get the basic stuff down and then migrate it to HTML and attempt to get it to the quality threshhold that the food blogs I source from have.
+
 
 (not working, just email me)
 <div id="feedback-main">
@@ -23,3 +24,4 @@ My goal is to get the basic stuff down and then migrate it to HTML and attempt t
 </div>
 
 
+~!update!~ I am going to be making a meta-blog to keep me honest on my work schedule and showcase the progress and plans for the project over the coming week. I will update it a minimum of once per day.
